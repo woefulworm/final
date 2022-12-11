@@ -1,5 +1,5 @@
 import React from "react";
-import {Outlet} from "react-router-dom";
+import { Outlet } from "react-router-dom";
 import Navbar from "../Navbar";
 
 const Layout = () => {
@@ -10,7 +10,7 @@ const Layout = () => {
         <Outlet />
       </div>
       <div className="footer" id="footer">
-          Website designed + coded by me using Javascript, React, and HTML.
+        Website designed + coded by me using Javascript, React, and HTML.
       </div>
     </>
   );

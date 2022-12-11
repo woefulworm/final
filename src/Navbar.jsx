@@ -13,7 +13,7 @@ function Navbar() {
     </nav>
     <div className='navBar'>
     </div>
-    <a className='myName' href="/">Will Allstetter</a>
+    <a className='myName' href="/">[name redacted]</a>
   </header>
   );
 }
